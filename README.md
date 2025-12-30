@@ -206,4 +206,5 @@ batch_size = 64
 🏛 Acknowledgements   
 
 This research was collaborated:   
-	Ulsan National Institute of Science and Technology (UNIST) & Electronics and Telecommunications Research Institute (ETRI)
+
+Ulsan National Institute of Science and Technology (UNIST) & Electronics and Telecommunications Research Institute (ETRI)
