@@ -185,22 +185,24 @@ batch_size = 64
 
 ---
 
-## 📂 Repository Structure (Example)
+## 📂 Repository Structure
+
+Due to data security and collaboration constraints, the source code and raw sensor data are not publicly released.  
+This repository focuses on **research documentation, experimental results, and reproducibility descriptions**.
 
 ```bash
-├── data/
-│   └── processed_frequency_data/
-├── models/
-│   ├── knn.py
-│   ├── random_forest.py
-│   ├── mlp.py
-│   ├── cnn.py
-│   └── graph_transformer.py
-├── experiments/
-│   └── evaluation.ipynb
-├── results/
-│   └── performance_tables/
+A-Comparative-Study-of-ML-and-Deep-Learning-Methods-for-Water-Pipeline-Leakage-Classification/
 ├── README.md
+│   └── Project overview, experimental settings, model comparison, and results
+│
+├── KSC25_상수도관망_poster.pdf
+│   └── Conference poster summarizing the methodology and key experimental findings
+│
+├── 상수도관 누수 탐지를 위한 머신러닝 및 딥러닝 기법 비교 연구.pdf
+│   └── Full research paper detailing dataset, models, experiments, and analysis
+│
+└── (Code and data not publicly available)
+    └── Model implementations and raw sensor data are restricted due to security policies
 ```
 
 🏛 Acknowledgements - This research was collaborated
