@@ -30,11 +30,10 @@ This project systematically compares **distance-based models, tree-based ensembl
 
 ## 📊 Dataset Description
 
-- **Data source**: Urban water distribution network (Daegu, South Korea)  
-- **Sensors**: 391 frequency sensors deployed across the network  
+- **Data source**: Urban water distribution network in Korea  
+- **Sensors**: frequency sensors deployed across the network  
 - **Observation window**: 5 consecutive days per sensor  
 - **Frequency resolution**: 512 frequency bins per day  
-- **Total samples**: 1,955 sensor-day instances  
 
 ### Class Labels
 
